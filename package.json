@@ -19,14 +19,16 @@
     "floating",
     "label"
   ],
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 
   "main": "index.js",
   "files": ["index.js", "src/*", "license.txt", "readme.md", "changelog.md"],
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/n4kz/react-native-material-textfield.git"
+    "url": "git@github.com:youorder/react-native-material-textfield.git"
   },
+
 
   "dependencies": {
     "prop-types": "^15.5.9"
