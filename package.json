@@ -19,8 +19,7 @@
     "floating",
     "label"
   ],
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
-
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "main": "index.js",
   "files": ["index.js", "src/*", "license.txt", "readme.md", "changelog.md"],
 
